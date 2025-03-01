@@ -1,3 +1,7 @@
+![nimasa_screenshot](https://github.com/user-attachments/assets/45f9228f-26f6-49f9-9a0b-9b2781d562e2)
+
+![nimasa_screenshot](https://github.com/user-attachments/assets/a43e82d3-7bb2-46a4-8fc9-96282c42f128)
+
 # NIMASA Web Application
 
 ## Overview
@@ -5,6 +9,7 @@ The **NIMASA Web Application** is a web-based platform built using **PHP, jQuery
 
 ## Live Demo
 🔗 [Visit the Application](https://techhost7x.accessng.com/nimasa/)
+
 
 ## Features
 - Responsive design using **Bootstrap**
